@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! I'm Karthikeya 👋
 
-<!--
-**Karthiksai-1/Karthiksai-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied AI & Data Engineer** specializing in production RAG systems, LLM evaluation harnesses, and enterprise data analytics.
 
-Here are some ideas to get you started:
+- 🌐 **Live Portfolio:** [nirudisaikarthikeya.vercel.app](https://nirudisaikarthikeya.vercel.app)
+- 💼 **Focus Areas:** Retrieval-Augmented Generation, FAISS Vector Search, LLM Evaluation (Pytest), Data Analytics
+- 📫 **Contact:** [nirudisaikarthikeya@gmail.com](mailto:nirudisaikarthikeya@gmail.com) · [LinkedIn](https://www.linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Core Technical Stack
+- **AI & Systems:** Python, LangChain, FAISS, OpenAI / Anthropic APIs, FastAPI, Docker
+- **Data & Analytics:** SQL (Window Functions, CTEs), Power BI & DAX, Star Schema Modeling, ServiceNow CMDB
